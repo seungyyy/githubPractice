@@ -1,3 +1,2 @@
-hello world
-hello seungyeon
-hello likelion
+# github 명령어 강의
+* github 너무 어려워!
